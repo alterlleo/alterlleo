@@ -1,6 +1,8 @@
 
 #### 🤖 My GH History
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alterlleo&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="github-metrics.svg" alt="Alterlleo Metrics" width="100%">
+</p>
 
 ![Snake dark mode](https://github.com/alterlleo/alterlleo/blob/output/snake-dark.svg)
 
