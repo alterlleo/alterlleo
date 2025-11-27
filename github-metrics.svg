@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.55050248014766" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="384.55050248014766" y="0" width="59.960212687413176" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.5107151675608" y="0" width="11.831472745306623" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="456.3421879128675" y="0" width="2.675692668743995" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.01788058161145" y="0" width="0.49942498876371694" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.5173055703752" y="0" width="0.48269442962480413" height="8" fill="#adb2cb"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.6306947354981" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="384.6306947354981" y="0" width="59.97271649290993" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.603411228408" y="0" width="11.83394002197755" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="456.4373512503855" y="0" width="2.6762506444281957" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.1136018948137" y="0" width="0.48279508832816564" height="8" fill="#adb2cb"/>
+                    <rect mask="url(#languages-bar)" x="459.59639698314186" y="0" width="0.4036030168581028" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                                 C
                             </div>
                             <small>
-                                <div>83.6%</div>
+                                <div>83.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -55,12 +55,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#adb2cb" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Java
+                                VHDL
                             </div>
                             <small>
-                                <div>0.11%</div>
+                                <div>0.1%</div>
                             </small>
                         </div>
                     </section>
@@ -73,7 +73,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>13.03%</div>
+                                <div>13.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -90,12 +90,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#adb2cb" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                VHDL
+                                CMake
                             </div>
                             <small>
-                                <div>0.1%</div>
+                                <div>0.09%</div>
                             </small>
                         </div>
                     </section>
