@@ -27,4 +27,4 @@ jobs:
           plugin_languages_limit: 6
           
           plugin_languages_ignored: >-
-            html, css, tex, makefile, roff, jupyter notebook, javascript
+            html, css, tex, makefile, roff, jupyter notebook, javascript, mathematica
